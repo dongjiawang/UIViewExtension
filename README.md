@@ -18,6 +18,7 @@
 ```
 
 
+
 ###添加移除所有子 view 的方法：
 ```
 - (void)removeAllSubview;
