@@ -1,6 +1,6 @@
 # UIViewExtension
 
-###为 UIView 添加常用的属性：
+###为 UIView 扩展常用的属性：
 ```
 左边起点坐标 X
 
